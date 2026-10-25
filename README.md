@@ -22,6 +22,10 @@ HTML
 CSS
 JavaScript
 
+## what I learned
+I learned how sprite sheets work and how to use Canvas to draw different frames of an animation. I also learned how to use classes for the background layers and how parallax scrolling works. I ran into a lot of errors while coding, but fixing them helped me understand the code better.
+
+Explain what I built with these techniquesMake my learning progress more specific
 ## How It Works
 JavaScript manages the dog animations and the background scrolling. The animation changes based on the option you pick. Different background layers move at speeds to give a parallax effect.
 HTML sets up the page structure. CSS handles the styling.
